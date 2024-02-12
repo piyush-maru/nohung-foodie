@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "329686797310",
+    "project_id": "nohungfoodie",
+    "storage_bucket": "nohungfoodie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329686797310:android:6b0092a060d9868a550eaf",
+        "android_client_info": {
+          "package_name": "com.nohung.foodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329686797310-8ouppche5u5kh5tt1g7b1u993mvi36ri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nohung.foodie",
+            "certificate_hash": "67f5d5b5f464736ceab1812100443a36885e01d9"
+          }
+        },
+        {
+          "client_id": "329686797310-te9ed3l6loh3g1kjji5crv8481cg1d38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nohung.foodie",
+            "certificate_hash": "388df9469ef99f8f5f469d54393a54945158a8a3"
+          }
+        },
+        {
+          "client_id": "329686797310-tgsip8sg1spdkfrj4sicoh0qilevidtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYlxHgJ_LpGZUlxiInkejhHUtULqFu6_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329686797310-tgsip8sg1spdkfrj4sicoh0qilevidtb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

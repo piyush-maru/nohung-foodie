@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="53" height="21" viewBox="0 0 53 21">
+  <g id="Group_32019" data-name="Group 32019" transform="translate(-239 -215)">
+    <g id="Rectangle_8" data-name="Rectangle 8" transform="translate(239 215)" fill="none" stroke="#2f3443" stroke-width="1" stroke-dasharray="4 5">
+      <rect width="53" height="21" stroke="none"/>
+      <rect x="0.5" y="0.5" width="52" height="20" fill="none"/>
+    </g>
+    <g id="Group_13" data-name="Group 13" transform="translate(0 -1)">
+      <text id="Filters" transform="translate(256 229)" fill="#2f3443" font-size="8" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Filters</tspan></text>
+      <path id="Icon_awesome-filter" data-name="Icon awesome-filter" d="M9.531,0H.469A.469.469,0,0,0,.138.8L3.75,4.413V8.437a.469.469,0,0,0,.2.384L5.512,9.915a.469.469,0,0,0,.738-.384V4.413L9.862.8A.469.469,0,0,0,9.531,0Z" transform="translate(244.1 222)" fill="#2f3443"/>
+      <path id="Icon_ionic-ios-arrow-down" data-name="Icon ionic-ios-arrow-down" d="M9.189,13.643l2.269-2.27a.427.427,0,0,1,.606,0,.432.432,0,0,1,0,.607L9.492,14.552a.428.428,0,0,1-.591.013L6.313,11.982a.429.429,0,0,1,.606-.607Z" transform="translate(274.712 213.754)" fill="#2f3443"/>
+    </g>
+  </g>
+</svg>
